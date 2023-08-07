@@ -28,7 +28,9 @@ h1.company-name {
 	font-family: "Cinzel", serif;
 	color: $gold;
 }
-
+.nav-mobile {
+	touch-action: none;
+}
 .wrapper {
 	margin: 0 auto;
 	max-width: 1200px;
